@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.2.6",
+    "compressorjs": "^1.0.7",
     "postcss": "^8.3.5",
     "preact": "^10.3.2",
     "preact-render-to-string": "^5.1.4",

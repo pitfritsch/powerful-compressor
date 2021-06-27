@@ -3,11 +3,13 @@
 @import "tailwindcss/utilities";
 
 html, body {
-	height: 100%;
+	min-height: 100vh;
+	height: auto;
 	width: 100%;
 	padding: 0;
 	margin: 0;
-	background: #FAFAFA;
+	background: linear-gradient(336deg, rgba(16, 185, 129, 1), rgb(29 130 202));
+	background-color: rgba(16, 185, 129);
 	font-family: 'Helvetica Neue', arial, sans-serif;
 	font-weight: 400;
 	color: #444;
